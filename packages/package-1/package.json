@@ -1,5 +1,5 @@
 {
-  "name": "@jcansdale-test/test-lerna-readme",
+  "name": "@jcansdale-test/lerna-readme-test",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "f2904f85622f69dad6b08413bbc2c0d36d9a74ad"
 }
